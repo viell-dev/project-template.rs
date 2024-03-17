@@ -76,4 +76,6 @@ rustflags = [
     "-Wnonstandard_style",
     "-Wrust_2018_idioms",
     # END - Embark standard lints v6 for Rust 1.55+
+    "-Wclippy::needless_pass_by_value",
+    "-Wrustdoc::missing_crate_level_docs",
 ]
