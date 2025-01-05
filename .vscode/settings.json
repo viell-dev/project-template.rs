@@ -47,10 +47,12 @@
 
   // Words to ignore in spell-checking.
   "cSpell.ignoreWords": [
+    "MSVC",
     "Swatinem",
     "dtolnay",
     "expl_impl_clone_on_copy",
     "linkedlist",
+    "rustc",
     "rustfmt"
   ]
 }
