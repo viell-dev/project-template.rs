@@ -46,5 +46,11 @@
   "cSpell.words": ["clippy", "viell"],
 
   // Words to ignore in spell-checking.
-  "cSpell.ignoreWords": ["expl_impl_clone_on_copy", "linkedlist", "rustfmt"]
+  "cSpell.ignoreWords": [
+    "Swatinem",
+    "dtolnay",
+    "expl_impl_clone_on_copy",
+    "linkedlist",
+    "rustfmt"
+  ]
 }
