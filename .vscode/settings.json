@@ -53,6 +53,7 @@
     "expl_impl_clone_on_copy",
     "linkedlist",
     "rustc",
-    "rustfmt"
+    "rustfmt",
+    "unexpected_cfgs"
   ]
 }
