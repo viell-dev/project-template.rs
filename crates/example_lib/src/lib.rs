@@ -1,4 +1,4 @@
-#![allow(warnings)]
+#[expect(clippy::arithmetic_side_effects, reason = "placeholder function")]
 pub fn add(left: usize, right: usize) -> usize {
     left + right
 }

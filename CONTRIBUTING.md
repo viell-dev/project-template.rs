@@ -21,7 +21,7 @@ Thank you for your interest in contributing! This document outlines the process 
 1. Create a new branch:
 
    ```bash
-   git checkout -b feature/name
+   git checkout -b my-branch
    ```
 
 2. Make your changes
@@ -40,7 +40,7 @@ Thank you for your interest in contributing! This document outlines the process 
 4. Push to your fork:
 
    ```bash
-   git push origin feature/name
+   git push origin my-branch
    ```
 
 5. Open a Pull Request
