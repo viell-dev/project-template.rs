@@ -5,6 +5,14 @@
 [![Crates.io](https://img.shields.io/crates/v/{crate_name}.svg)](https://crates.io/crates/{crate_name})
 [![Docs.rs](https://docs.rs/{crate_name}/badge.svg)](https://docs.rs/{crate_name})
 
+## AI Coding Assistants
+
+This template includes [AGENTS.md](AGENTS.md) and [CLAUDE.md](CLAUDE.md) files
+that provide AI coding assistants with context about the template's structure.
+These files are written for the template itself and should be removed or replaced
+with project-specific instructions after creating a new repository from this
+template.
+
 ## Description
 
 Brief description of your project
