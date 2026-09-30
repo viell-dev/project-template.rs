@@ -7,11 +7,10 @@
 
 ## AI Coding Assistants
 
-This template includes [AGENTS.md](AGENTS.md) and [CLAUDE.md](CLAUDE.md) files
-that provide AI coding assistants with context about the template's structure.
-These files are written for the template itself and should be removed or replaced
-with project-specific instructions after creating a new repository from this
-template.
+This template includes [AGENTS.md](AGENTS.md) to provide AI coding assistants
+with context about the template's structure. This file is written for the template
+itself and should be removed or replaced with project-specific instructions after
+creating a new repository from this template.
 
 ## Description
 
